@@ -1,4 +1,4 @@
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class calc{
     public static void main(String[]args){
@@ -52,4 +52,5 @@ public class calc{
                 break;
         }
     }
+
 }
